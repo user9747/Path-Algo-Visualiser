@@ -8,8 +8,11 @@
 # testing
 /coverage
 
-# production
-/build
+/src
+/public
+package.json
+package-lock.json  
+README.md
 
 # misc
 .DS_Store
